@@ -1,0 +1,12 @@
+{
+  "name": "lunar/plugin-cubecart",
+  "description": "Lunar cubecart gateway development",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ionut Calara",
+      "email": "ionut.calara@gmail.com"
+    }
+  ],
+  "prefer-stable": true
+}
